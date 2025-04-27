@@ -1,0 +1,14 @@
+{
+  "name": "bot-controle-gastos-wpp",
+  "version": "1.0.0",
+  "description": "Bot de Controle de Gastos no WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "venom-bot": "^4.0.0",
+    "mongodb": "^5.7.0",
+    "dotenv": "^16.0.3"
+  }
+} 
