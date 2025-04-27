@@ -1,0 +1,3 @@
+MONGO_URI=mongodb+srv://admin:ad,in@teu-cluster0.mongodb.net/?retryWrites=true&w=majority
+ADMIN_NUMBER=258842187939
+PORT=3000
